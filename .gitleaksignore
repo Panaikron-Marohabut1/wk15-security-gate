@@ -1,0 +1,6 @@
+# curl-auth-header false positives — alice-token is a toy lab token,
+# not a real credential (README-pipeline.md + worksheet.md doc examples)
+bcc94d9c3fa21f31dd5c98281752d3ca0238174e:README-pipeline.md:curl-auth-header:92
+bcc94d9c3fa21f31dd5c98281752d3ca0238174e:worksheet.md:curl-auth-header:78
+bcc94d9c3fa21f31dd5c98281752d3ca0238174e:worksheet.md:curl-auth-header:95
+bcc94d9c3fa21f31dd5c98281752d3ca0238174e:worksheet.md:curl-auth-header:131
